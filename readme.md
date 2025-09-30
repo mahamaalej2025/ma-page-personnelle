@@ -30,7 +30,7 @@ o	Appliquer des styles de base : polices, couleurs, marges, etc.
 -	Ajouter une image dans la section de présentation (en utilisant l'attribut src pour le chemin de l'image).
 -	Utiliser des couleurs simples pour l'arrière-plan, les textes, etc. (par exemple : gris clair, bleu marine, blanc).
 
-### 3. Étape 3 : Améliorations et mises à niveau 
+### Étape 3 : Améliorations et mises à niveau 
 Après avoir créé la structure de base et ajouté des styles, les étudiants peuvent personnaliser leur portfolio avec les éléments suivants :
 -	Ajouter un arrière-plan d'image à l’en-tête ou à la section des projets.
 -	Utiliser Flexbox pour organiser les sections.
