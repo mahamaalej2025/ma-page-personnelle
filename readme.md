@@ -16,7 +16,8 @@
 https://votre-nom-utilisateur.github.io/ma-page-personnelle/ 
 ## Tags HTML utilisés 
 ```html 
-<h1>, <h2>, <p>, <ul>, <li>, <a>, <img>, <header>, <main>, <footer> 
+<h1>, <h2>, <p>, <ul>, <li>, <a>, <img>, <header>, <main>, <footer>
+```
 Bonne chance et amusez-vous bien avec HTML !
 ## Pousse les fichiers sur GitHub 
 Si tu travailles en local : 
