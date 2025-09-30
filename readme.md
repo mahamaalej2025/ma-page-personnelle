@@ -18,3 +18,17 @@ https://votre-nom-utilisateur.github.io/ma-page-personnelle/
 ```html 
 <h1>, <h2>, <p>, <ul>, <li>, <a>, <img>, <header>, <main>, <footer> 
 Bonne chance et amusez-vous bien avec HTML !
+## Pousse les fichiers sur GitHub 
+Si tu travailles en local : 
+```bash 
+git init 
+git remote add origin https://github.com/ton-utilisateur/ma-page-personnelle.git 
+git add . 
+git commit -m "Ajout index.html et README.md" 
+git push -u origin main 
+## Active GitHub Pages 
+•	Sur GitHub → repo → Settings → Pages 
+•	Choisis la branche main et le dossier /root 
+•	Enregistre, attends quelques secondes 
+•	Ta page sera accessible ici : 
+•	https://ton-utilisateur.github.io/ma-page-personnelle/ 
