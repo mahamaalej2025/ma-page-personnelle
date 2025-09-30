@@ -3,7 +3,7 @@
 À la fin de ce projet, les étudiants auront créé une page web simple en HTML et CSS. Ils apprendront à structurer une page avec HTML et à la styliser avec CSS.
 ________________________________________
 ## 1. Introduction
-Le projet consiste à créer une page de portfolio personnel pour un(e) fictif/ve étudiant(e). La page devra comprendre les éléments suivants :
+Le projet consiste à créer une page de portfolio personnel pour chaque étudiant. La page devra comprendre les éléments suivants :
 - Un en-tête avec un titre et un menu de navigation.
 - Une section de présentation avec un court texte et une image.
 - Une section des compétences.
@@ -32,4 +32,14 @@ Après avoir créé la structure de base et ajouté des styles, les étudiants p
 - Ajouter un arrière-plan d'image à l’en-tête ou à la section des projets.
 - Utiliser Flexbox pour organiser les sections.
 - Ajouter un bouton stylisé dans la section "Contact" pour faire apparaître un formulaire de contact (facultatif).
+## Etapes à suivre pour soumettre ce travail au répertoire github
+- Clone their repo:
+   git clone https://github.com/your-student-username/ma-page-personnelle.git 
+- cd ma-page-personnelle 
+- Make changes (code, commit, test): 
+- git add . 
+- git commit -m "Completed Portfolio lab" 
+- Push to GitHub:
+  git push 
+- Share the GitHub repo URL with you, or submit a Pull Request if you want to do code review. 
 
