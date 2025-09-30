@@ -17,20 +17,20 @@ Le projet consiste à créer une page de portfolio personnel pour un(e) fictif/v
 ________________________________________
 ## 2. Instructions pour le projet
 ________________________________________
-Étape 1 : Création du fichier HTML 
+### Étape 1 : Création du fichier HTML 
 1.	Structure de base du fichier HTML :
 o	Utiliser le fichier index.html.
 o	Commencer par une structure HTML de base avec une balise <!DOCTYPE html> et les balises <html>, <head>, et <body>.
 o	Inclure un titre dans la balise <head> pour la page, comme "Portfolio de [Nom]".
-Étape 2 : Création du fichier CSS (1 heure)
+### Étape 2 : Création du fichier CSS (1 heure)
 2.	Stylisation de la page avec CSS :
 o	Utiliser le fichier styles.css.
 o	Appliquer des styles de base : polices, couleurs, marges, etc.
-## Instructions supplémentaires :
+** Instructions supplémentaires :**
 -	Ajouter une image dans la section de présentation (en utilisant l'attribut src pour le chemin de l'image).
 -	Utiliser des couleurs simples pour l'arrière-plan, les textes, etc. (par exemple : gris clair, bleu marine, blanc).
 
-## 3. Étape 3 : Améliorations et mises à niveau 
+### 3. Étape 3 : Améliorations et mises à niveau 
 Après avoir créé la structure de base et ajouté des styles, les étudiants peuvent personnaliser leur portfolio avec les éléments suivants :
 -	Ajouter un arrière-plan d'image à l’en-tête ou à la section des projets.
 -	Utiliser Flexbox pour organiser les sections.
